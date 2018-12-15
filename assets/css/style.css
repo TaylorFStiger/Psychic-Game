@@ -1,0 +1,15 @@
+div {
+    position: relative;
+    width: 50%;
+    height: auto;
+    float: left;
+    text-align: left;
+  
+    
+}
+
+body {
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/cubes.png); 
+}
+
+
